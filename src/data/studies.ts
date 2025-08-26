@@ -1,7 +1,7 @@
 export const studies = [
   {
     title: "B.S. in Computer Science",
-    institution: "State University",
+    institution: "KL University",
     description:
       "Core CS foundations: data structures, algorithms, operating systems, networking, and databases; team capstone in web systems.",
     tags: [
